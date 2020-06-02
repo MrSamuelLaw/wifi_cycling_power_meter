@@ -13,8 +13,8 @@
 
 
 // Wifi login info
-const char* ssid {"ATT7G5WkK2"};
-const char* password {"5ua?e+3a9649"};
+const char* ssid {"networkName"};
+const char* password {"password"};
 
 // Timing variables
 unsigned long high_time{0};
